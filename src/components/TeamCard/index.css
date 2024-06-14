@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.list-container {
+  list-style-type: none;
+  width: 50%;
+}
+.team-image {
+  width: 100px;
+  height: 120px;
+}
+.team-name {
+  font-size: 30px;
+  color: white;
+  font-family: 'Bree Serif';
+  font-weight: 600;
+}
+.link {
+  display: flex;
+  align-items: center;
+  background-color: #ffffff33;
+  border-radius: 12px;
+  border: 1px solid white;
+  padding-left: 7px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-right: 7px;
+  margin-left: 8px;
+  margin-right: 7px;
+  text-decoration: none;
+  width: 400px;
+  margin-bottom: 30px;
+}

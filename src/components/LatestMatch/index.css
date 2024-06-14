@@ -1,0 +1,68 @@
+/* Write your CSS here */
+.latest-match-container {
+  margin-top: 24px;
+}
+.latest-match-heading {
+  color: white;
+  font-family: 'Bree serif';
+  font-size: 16px;
+  display: flex;
+}
+.latest-match-card {
+  display: flex;
+  flex-direction: column;
+  background-color: #0f172a;
+  border-radius: 12px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+.latest-match-details-logo-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+.latest-match-details-1 {
+  width: 70%;
+}
+.latest-match-team-name {
+  color: white;
+  font-family: 'Bree serif';
+  font-size: 20px;
+}
+.latest-match-date {
+  color: white;
+  font-family: 'Bree serif';
+  font-size: 18px;
+}
+.match-details {
+  color: white;
+  font-family: 'Bree serif';
+  font-size: 14px;
+}
+.latest-match-team-logo {
+  max-width: 90px;
+  max-height: 90px;
+}
+.separator {
+  border: 1px solid #475569;
+  width: 100%;
+}
+.latest-match-details-2 {
+  text-align: center;
+  width: 33%;
+  padding-left: 0px;
+  padding-right: 32px;
+}
+.latest-math-details-label {
+  color: white;
+  font-family: 'Bree Serif';
+  font-size: 16px;
+}
+.latest-match-details-value {
+  color: white;
+  font-family: 'Bree Serif';
+  font-size: 14px;
+}
